@@ -1,0 +1,14 @@
+{
+	"id":"moviedevtycoon",
+	"name":"Movie_Dev_Tycoon",
+	"version":"0.0.1",
+	"author":"BWP",
+	"url":"",
+	"description":"A Mod that makes the game basically all about movies",
+	"main":"./main.js",
+	"dependencies":{
+		"gdt-modAPI":"0.1.x",
+			"UltimateLib":"1.x.x"
+		}
+	
+}
